@@ -12,5 +12,5 @@ as you move it around the page. "Mousemove" event is implented in this project</
     <li>Move your mouse pointer accross the page and the eyeballs will follow your pointer</li>
 </ol>
 
-## Future Improvemtns 
+## Future Improvements
 </p> Add more elements to the page like - nose, mouth. Implement other Mouse Events like - Click and Mouseleave<p>
