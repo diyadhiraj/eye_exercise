@@ -8,7 +8,7 @@ as you move it around the page. "Mousemove" event is implented in this project</
 <ol>
     <li>Clone the Repository to your local machine</li>
     <li>Open your preferred Browser</li>
-    <li>Drag and drop the index.html file onto your browse</li>
+    <li>Drag and drop the index.html file onto your browser</li>
     <li>Move your mouse pointer accross the page and the eyeballs will follow your pointer</li>
 </ol>
 
